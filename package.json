@@ -11,6 +11,6 @@
   "dependencies": {
     "node-cron": "^2.0.3",
     "request": "^2.81.0",
-    "twilio": "^3.42.0"
+    "twilio": "^3.84.1"
   }
 }
